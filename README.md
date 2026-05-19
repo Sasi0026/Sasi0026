@@ -115,15 +115,23 @@ SQL-driven transaction monitoring system with fraud KPIs, anomaly detection logi
 | Certification | Issuer |
 |---|---|
 | Generative AI with Large Language Models | Coursera / DeepLearning.AI |
-| NLP Intern Certification | [REVA University R&D Cell] |
+| NLP Intern Certification | REVA University R&D Cell |
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sasi0026&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasi0026&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api
+    ?username=Sasi0026
+    &show_icons=true
+    &theme=default
+    &hide_border=true
+    &count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/
+    ?username=Sasi0026
+    &layout=compact
+    &theme=default
+    &hide_border=true" height="150"/>
 </p>
+
 
 <p align="center">
   <sub>Open to: Data Analyst · NLP Engineer · ML Engineer roles · Bengaluru / Remote</sub>
